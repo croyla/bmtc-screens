@@ -1,5 +1,5 @@
-import ALL_STOPS from './stops.json';
 import ALL_PLATFORMS from './platforms.json';
+import ALL_STOPS from './stops.json';
 
 
 export const BMTC_API_ENDPOINT = import.meta.env.VITE_BMTC_API_ENDPOINT;
@@ -23,6 +23,14 @@ export const STOPS = ALL_STOPS.reduce((result, stop) => {
             })
         );
     }
+    //TODO: stopData can be overridden if two stops have the same name
     result[stop.stop_name].push(stopData);
+    // console.log(result);
     return result;
+
 }, {});
+
+export const ALL_STOPS_LIST = Object.keys(STOPS).map(stop => {
+    return { "stop_name": stop }});
+
+// console.log(ALL_STOPS_LIST)

@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
-import ResultStop from './result-stop.jsx';
 import { STOPS } from '../utils/constants';
+import ResultStop from './result-stop.jsx';
 
 const Results = ({ searchResults }) => {
     return (
