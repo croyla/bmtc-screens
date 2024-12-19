@@ -1,1 +1,847 @@
-{"20921":{"1":{"coordinates":[77.572829,12.977732],"routes":[{"number":"61-A","name":"KBS-CLO"},{"number":"87","name":"KBS-RPCLO"},{"number":"87 KBS-DPJN","name":"KBS-DPJN"},{"number":"61-J","name":"KBS-CLO1"},{"number":"61-M","name":"KBS-VLOCLO"},{"number":"61-F","name":"KBS-GKWLO"}]},"2":{"coordinates":[77.572687,12.977939],"routes":[{"number":"223-PA","name":"KBS-URLO"},{"number":"235-K","name":"KBS-DBT"},{"number":"238-C","name":"KBS-BMBS"},{"number":"235-K KBS-RMS","name":"KBS-RMS"}]},"3":{"coordinates":[77.572486,12.978041],"routes":[{"number":"238-U KBS-BUCADM","name":"KBS-BUCADM"},{"number":"238-UC","name":"KBS-VSL9"},{"number":"238-W","name":"KBS-NRP"},{"number":"238-Y","name":"KBS-ITILO"},{"number":"238-VA","name":"KBS-MDP"},{"number":"238-US","name":"KBS-SGBS"},{"number":"238-U","name":"KBS-MDPC"},{"number":"238-U D31G-KBS DOWN","name":"KBS-D31G"},{"number":"238-U KBS-AIT","name":"KBS-AIT"},{"number":"238-U KBS-DPJN","name":"KBS-DPJN"},{"number":"238-U KBS-CLO","name":"KBS-CLO"},{"number":"238-U KBS-SMH","name":"KBS-SMH"}]},"4":{"coordinates":[77.572105,12.977986],"routes":[{"number":"242-B","name":"KBS-TVK"},{"number":"242-B KBS-D35G","name":"KBS-D35G"},{"number":"242-FB","name":"KBS-YLCGP"},{"number":"242-U KBS-LKSMP","name":"KBS-LKSMP"},{"number":"243-D","name":"KBS-TGP"},{"number":"242-B KBS-JSN","name":"KBS-JSN"},{"number":"242-J KBS-DMH","name":"KBS-DMH"},{"number":"242-MA KBS-SLVR","name":"KBS-SLVR"},{"number":"242-P KBS-HVLH","name":"KBS-HLVH"},{"number":"242-Q KBS-GGH","name":"KBS-GGH"},{"number":"242-TA KBS-MTK","name":"KBS-MTK"},{"number":"242-Y KBS-AMP","name":"KBS-AMP"},{"number":"242-Z","name":"KBS-TGH"},{"number":"242-T","name":"KBS-HNG"},{"number":"242-ZD","name":"KBS-KLR"},{"number":"243-A","name":"KBS-URLO"},{"number":"243-F","name":"KBS-GKH"},{"number":"243-J","name":"KBS-BVN2"},{"number":"243-L","name":"KBS-LDH"},{"number":"242-B KBS-TVK-NML","name":"KBS-NML"},{"number":"242-ZC KBS-CFLS","name":"KBS-CFLS"},{"number":"242-B D31G-KBS DOWN","name":"D31G-KBS"}]},"5":{"coordinates":[77.571837,12.977804],"routes":[{"number":"89-C","name":"KBS-CVN"},{"number":"96-B","name":"KBS-BEMLLOK"},{"number":"D7-KBS DOWN","name":"KBS-D7"},{"number":"KIA-9","name":"KBS-KIA"},{"number":"89-D","name":"KBS-JCN"},{"number":"222-A KWS-KBS DOWN","name":"KBS-KWS"},{"number":"KBS-DPJN","name":"KBS-DPJN"},{"number":"KBS-CVB","name":"KBS-CVB"},{"number":"96-A","name":"KBS-KBS"},{"number":"KBS-YST-PTH","name":"KBS-PTH"},{"number":"KBS-KMT-GAT","name":"KBS-GAT"},{"number":"213-H KBS-BHKVL","name":"KBS-BHKVL"},{"number":"214-C KBS-MKD","name":"KBS-MKD"},{"number":"210-WA KBS-BEML5","name":"KBS-BEML5"},{"number":"210-E KBS-CEC","name":"KBS-CECV"},{"number":"210-KA KBS-PPLO","name":"KBS-PPLO"},{"number":"317-A D24G-KBS DOWN","name":"KBS-D24G"},{"number":"316-J KBS-KTGH","name":"KBS-KTGH"},{"number":"10-J DPJN-NDH-KBS DOWN","name":"KBS-NDH-DPJN"},{"number":"325 KBS-HAL-HRH","name":"KBS-HAL-HRH"},{"number":"210-ND KBS-PPLO","name":"KBS-PPLO"},{"number":"96-G","name":"KBS-SNB"},{"number":"88","name":"KBS-BSN"},{"number":"96","name":"KBS-KBS"},{"number":"370-A KBS-UJPD","name":"KBS-UJPD"},{"number":"217-D KBS-SHV","name":"KBS-SHV"},{"number":"V-BENGALURU DARSHINI","name":"KBS-KBS"},{"number":"88-B","name":"KBS-BSN"},{"number":"245-M KBS-BMTCTC-MDH","name":"KBS-MDH"},{"number":"245-R KBS-DJP","name":"KBS-DJP"},{"number":"96-E","name":"KBS-KMLN"},{"number":"96-C","name":"KBS-SNB"},{"number":"326-D KBS-HSK","name":"KBS-HSK"},{"number":"89-E","name":"KBS-CVN"},{"number":"KBS-RMCPFO","name":"KBS-RMCPFO"},{"number":"KBS-ESI-YTTMC","name":"KBS-YTTMC"},{"number":"369-K KBS-DLF","name":"KBS-DLF"},{"number":"89-A","name":"KBS-CVN"},{"number":"89-F","name":"KBS-GBER"},{"number":"293-S KBS-HNS","name":"KBS-HNS"},{"number":"89-B","name":"KBS-GLB"},{"number":"372-E KBS-CNP","name":"KBS-CNP"},{"number":"90-E KBS-YTTMC","name":"KBS-YTTMC"},{"number":"350-E KBS-NJP","name":"KBS-NJP"},{"number":"358 KBS-MYS","name":"KBS-MYS"},{"number":"KBS-LMG-CPR-RMH","name":"KBS-RMH"},{"number":"293 SVPS-KBS DOWN","name":"KBS-SVPS"},{"number":"350-A KBS-TRP","name":"KBS-TRP"},{"number":"171 KBS-SNCA","name":"KBS-SNCA"},{"number":"22","name":"KBS-BRS"},{"number":"224-A KBS-VRS","name":"KBS-VRS"},{"number":"KBS-1K KBS-D41G","name":"KBS-D41G"},{"number":"323-AK KBS-D41G","name":"KBS-D41G"},{"number":"138 KBS-SVMS","name":"KBS-SVMS"},{"number":"KBS-VSD-RMB KRPGH","name":"KBS-KRPGH"},{"number":"222-A KBS-DPJN","name":"KBS-DPJN"},{"number":"82-A YTTMC-VSD-KBS DOWN","name":"KBS-YTTMC"},{"number":"415-B KBS-VSD-VNH","name":"KBS-VSD-VNH"},{"number":"314-B KBS-CVRNRG","name":"KBS-CVRNRG"},{"number":"82-B","name":"KBS-YPRS"},{"number":"370-E","name":"KBS-RMND"},{"number":"245-M","name":"KBS-SKDK"},{"number":"KBS-1I KBS-KVASC","name":"KBS-KVASC"},{"number":"234-E KBS-KMT-UST","name":"KBS-UST"},{"number":"V-45G","name":"KBS-CKA"},{"number":"V-171","name":"KBS-KRM"},{"number":"210-N BEML5TS-KBS DOWN","name":"KBS-BEMLL5TS"},{"number":"V-300MV","name":"KBS-SMVR"},{"number":"V-360B Flyover","name":"V-360B FLY KBS-ATB"},{"number":"298-Y KBS-YLR-VJP","name":"KBS-VJP"},{"number":"288-H D45-TDL-KBS DOWN","name":"KBS-D45"},{"number":"245-Q KBS-VDH-BTH","name":"KBS-VDH-BTH"},{"number":"146-B","name":"KBS-SNL"},{"number":"285-KA KBS-BTN","name":"KBS-BTN"},{"number":"238-V","name":"KBS-MDPC"},{"number":"328-K","name":"KBS-MRN"},{"number":"342-F KBS-D42G","name":"KBS-D42G"},{"number":"KBS-TNF-KRPGH","name":"KBS-KRPGH"},{"number":"25-B","name":"KBS-AGL"},{"number":"365-P KBS-D27G","name":"KBS-D27G"},{"number":"215-M","name":"KBS-VKN"},{"number":"284-C KBS-KRC-JLOW","name":"KBS-JDLW"},{"number":"355","name":"KBS-BMSV"},{"number":"258-MA JKNH-KBS DOWN","name":"KBS-JKNH"},{"number":"298-B KBS-ANSR-BCP","name":"KBS-BCP"},{"number":"210-B KBS-KMT-KTNR","name":"KBS-KMT-KTNR"},{"number":"347-C KBS-LMG-CKBR","name":"KBS-CKBR"},{"number":"273 KBS-HMTA-PSBS","name":"KBS-PSBS"},{"number":"221-J TVK-KMT-KBS DOWN","name":"KBS-TVK"},{"number":"285-M KBS-DBPH","name":"KBS-DBPH"},{"number":"254-E KBS-KMP","name":"KBS-KMP"},{"number":"297-C","name":"KBS-BHGS"}]},"6":{"coordinates":[77.571922,12.977935],"routes":[{"number":"80","name":"KBS-MLO"},{"number":"80-A","name":"KBS-NLO"},{"number":"80-B","name":"KBS-JMN"},{"number":"80-D","name":"KBS-RBJM"}]},"7":{"coordinates":[77.572159,12.978113],"routes":[{"number":"252-F","name":"KBS-PSS"},{"number":"252-H","name":"KBS-LGR"},{"number":"252-FC","name":"KBS-TGPY"}]},"8":{"coordinates":[77.572326,12.978144],"routes":[{"number":"43-H","name":"KBS-PRMLO"},{"number":"43-E","name":"KBS-BSK3"},{"number":"43-B","name":"KBS-HSKH"},{"number":"43-A","name":"KBS-VVKN"},{"number":"43-C","name":"KBS-MNKK"},{"number":"43-D","name":"KBS-VBN"},{"number":"43-J","name":"KBS-HKL"},{"number":"43","name":"KBS-BSK3"},{"number":"43-JA","name":"KBS-BRN"}]},"9":{"coordinates":[77.572806,12.977988],"routes":[{"number":"210-P","name":"KBS-CKLS"},{"number":"10-J","name":"KBS-AHBDA"},{"number":"210-X","name":"KBS-CDRN"},{"number":"210-WA","name":"KBS-TRH"},{"number":"210-U","name":"KBS-KSLOW"},{"number":"210-NP","name":"KBS-PPLO"}]},"10":{"coordinates":[77.572925,12.977775],"routes":[{"number":"36-B","name":"KBS-GNE"},{"number":"36-G","name":"KBS-AVLNBDA"},{"number":"35","name":"KBS-KGSP"},{"number":"36-A","name":"KBS-AHBDAP"},{"number":"36-D","name":"KBS-MBK"},{"number":"31","name":"KBS-NRC"},{"number":"36-F","name":"KBS-KDLO"},{"number":"36","name":"KBS-SRN"}]},"11":{"coordinates":[77.573074,12.977793],"routes":[{"number":"210-A.","name":"KBS-ISROL"},{"number":"210-W","name":"KBS-KRYP"},{"number":"15-E","name":"KBS-KSLO"},{"number":"15-E KBS-PPLO","name":"KBS-PPLO"},{"number":"15-G","name":"KBS-KSLOW"},{"number":"2","name":"KBS-JPN6"},{"number":"215-H","name":"KBS-JSD"},{"number":"215-H KBS-D34G","name":"KBS-D34G"},{"number":"210-R","name":"KBS-VSP"},{"number":"2-E","name":"KBS-JPN6"},{"number":"215-BA KBS-BCMC","name":"KBS-BCMCL"},{"number":"215-ND","name":"KBS-AJP"},{"number":"210-E","name":"KBS-VSP"},{"number":"2-A","name":"KBS-JPN1"},{"number":"215 KBS-D44G","name":"KBS-D44G"},{"number":"215-H KBS-JSD-BNP","name":"KBS-BNP"},{"number":"215-B KBS-ABDA","name":"KBS-ABDA"}]},"12":{"coordinates":[77.57276,12.97819],"routes":[{"number":"25-A","name":"KBS-BTM"},{"number":"25-E","name":"KBS-JPN3"},{"number":"25-H","name":"KBS-NSP"},{"number":"25-N","name":"KBS-MDN"},{"number":"V-25A","name":"KBS-BTM"},{"number":"25","name":"KBS-BTM"}]},"13":{"coordinates":[77.572543,12.978275],"routes":[{"number":"171-G","name":"KBS-KRM"},{"number":"171","name":"KBS-KRM1"},{"number":"171-C","name":"KBS-KDS"}]},"14":{"coordinates":[77.572446,12.978294],"routes":[{"number":"342-F","name":"KBS-SJP"},{"number":"343-E","name":"KBS-BGR"},{"number":"343-L","name":"KBS-HGSML"},{"number":"342-JB","name":"KBS-VGKH"},{"number":"V-342F","name":"KBS-SJP"},{"number":"340 KBS-GJRP","name":"KBS-GJRP"},{"number":"341-B KBS-CSR","name":"341-B KBS-CSR"},{"number":"341-C KBS-KDRM","name":"KBS-KRDM"},{"number":"343-A","name":"KBS-HLH"},{"number":"343-B","name":"KBS-BGRL"},{"number":"343-K","name":"KBS-VPLO"},{"number":"342-F KBS-PESCK","name":"KBS-PESCK"},{"number":"340-A KBS-ADG-HSRKEB","name":"KBS-HSRKEB"},{"number":"340-A KBS-ADG-HSR 2nd","name":"KBS-HSR 2nd"},{"number":"242-N KBS-GDH","name":"KBS-GDH"},{"number":"240-E KBS-BKH","name":"KBS-BKH"}]},"15":{"coordinates":[77.57232,12.978299],"routes":[{"number":"348-G","name":"KBS-HSPK"},{"number":"349-C","name":"KBS-HSKR"},{"number":"346-C","name":"KBS-RYS"},{"number":"347-F","name":"KBS-BCJ"},{"number":"346-M KBS-GLH","name":"KBS-GLH"},{"number":"347-C","name":"KBS-CKBR"},{"number":"347-H","name":"KBS-BEC"},{"number":"347-L","name":"KBS-HKG"},{"number":"347-N","name":"KBS-AECSLS"},{"number":"348","name":"KBS-HSPK"},{"number":"348-E KBS-MGP","name":"KBS-MGP"},{"number":"359-A","name":"KBS-ADGH"},{"number":"359","name":"KBS-GDT"},{"number":"357 KBS-BDP","name":"KBS-BNP"},{"number":"354-C","name":"KBS-MRS"},{"number":"352-E KBS-MHDB","name":"KBS-MHDB"},{"number":"356-A","name":"KBS-TTNH"},{"number":"351-C KBS-RMS","name":"KBS-RMS"},{"number":"351-J","name":"KBS-HDLA"},{"number":"351-M","name":"KBS-MTN"},{"number":"352-B","name":"KBS-MDB"},{"number":"354-B","name":"KBS-STH"},{"number":"346-CK","name":"KBS-KSDBA"},{"number":"346-N","name":"KBS-DDT"},{"number":"350-D KBS-SPN","name":"KBS-SPN"},{"number":"347-E","name":"KBS-HSR"},{"number":"347-B","name":"KBS-HRL"}]},"16":{"coordinates":[77.572084,12.978237],"routes":[{"number":"V-360B","name":"KBS-ATB"},{"number":"V-356M","name":"KBS-ANKL"},{"number":"V-356M FLY","name":"KBS-ANKL"},{"number":"V-356","name":"KBS-CDP"}]},"17":{"coordinates":[77.571967,12.978177],"routes":[{"number":"365","name":"KBS-BNP"},{"number":"365-P","name":"KBS-ANKL"},{"number":"365-J","name":"KBS-JAPC"},{"number":"365-EA","name":"KBS-KSVKT"},{"number":"369-G","name":"KBS-CKH"},{"number":"365-D","name":"KBS-BVH"},{"number":"365-E","name":"KBS-SBH"},{"number":"365-K","name":"KBS-CKB"},{"number":"365-H","name":"KBS-JAPC"},{"number":"365-R","name":"KBS-BSPC"},{"number":"365-S","name":"KBS-MRTD"},{"number":"365-B","name":"KBS-MNLS"},{"number":"365-Q","name":"KBS-DYVS"},{"number":"365-N","name":"KBS-GDH"},{"number":"365-W","name":"KBS-VMH"},{"number":"365 KBS-D34G","name":"KBS-D4G"},{"number":"371-D","name":"KBS-KGP"},{"number":"372-F","name":"KBS-NSB"},{"number":"372-MA","name":"KBS-TNH"},{"number":"365-J KBS-D27","name":"KBS-D27"},{"number":"369-C","name":"KBS-HLM"},{"number":"365 KBS-APSH","name":"KBS-APSH"},{"number":"365-E KBS-BTD","name":"KBS-BTD"},{"number":"369-J","name":"KBS-CKP"},{"number":"365 KBS-JRML","name":"KBS-JMLO"},{"number":"365-E KBS-BTRD","name":"KBS-BTRD"},{"number":"365-J KBS-JGN-UAV","name":"KBS-UVA"}]},"18":{"coordinates":[77.571761,12.977969],"routes":[{"number":"V-335E","name":"KBS-KDG"},{"number":"V-333E","name":"KBS-KDG"}]},"19":{"coordinates":[77.571433,12.977914],"routes":[{"number":"222-C","name":"KBS-UPDB"},{"number":"222-F","name":"KBS-SHIRKE"},{"number":"222-A","name":"KBS-KST"},{"number":"222-N","name":"KBS-JBWSH"},{"number":"220-F","name":"KBS-PSA"},{"number":"221-F","name":"KBS-HMH"},{"number":"221-G","name":"KBS-BMBRE"},{"number":"224-C","name":"KBS-KBL"},{"number":"225-AB","name":"KBS-CGP"},{"number":"225-C","name":"KBS-BEML5"},{"number":"225-CB","name":"KBS-BHELLOWT"},{"number":"225-CF","name":"KBS-BGSHC"},{"number":"225-D KBS-BHELCL","name":"KBS-BHELCLO"},{"number":"225-G","name":"KBS-BNGPN"},{"number":"225-CC","name":"KBS DRF"},{"number":"218-A","name":"KBS-KBP"},{"number":"221-J KBS-GGH","name":"KBS-GLGJH"},{"number":"225-C KBS-PTLMT","name":"KBS-PTLMT"},{"number":"225-AB KBS-HVH-CGP","name":"KBS-CGP"}]},"20":{"coordinates":[77.571823,12.978413],"routes":[{"number":"258-C","name":"KBS-NMG"},{"number":"258-CC","name":"KBS-NMG"},{"number":"258-DN KBS-DBSP","name":"KBS-DBSPT"},{"number":"258-T","name":"KBS-KSGT"},{"number":"258-B","name":"KBS-NMG"},{"number":"258-YA","name":"KBS1-HCP1"},{"number":"258-C KBS-NMGRS","name":"KBS-NMGRS"},{"number":"255-D","name":"KBS-HSKR"},{"number":"256-MA","name":"KBS-THPL"},{"number":"257-C","name":"KBS-RVTH"},{"number":"255-E KBS-NSP","name":"KBS-NSP"},{"number":"255-B","name":"KBS-BELT"},{"number":"255-C KBS-PLH","name":"KBS-PLH"},{"number":"257-E","name":"KBS-ARPY"},{"number":"258-C KBS-GDP","name":"KBS-GNDP"},{"number":"255-AE","name":"KBS-ALRB2"},{"number":"255-AA","name":"KBS-MTH"},{"number":"258-M KBS-TMG","name":"KBS-TMG"},{"number":"258-C KBS-GPLY","name":"KBS-GPLY"},{"number":"305-S","name":"KBS-NDV"},{"number":"258 KBS-SMP","name":"KBS-SMP"}]},"21":{"coordinates":[77.572249,12.978567],"routes":[{"number":"276","name":"KBS-VRP"},{"number":"276 KBS-PTH","name":"KBS-PTH"},{"number":"276 D45-VRP-KBS DOWN","name":"KBS-D45G"},{"number":"V-276","name":"KBS-VRP"},{"number":"276-B","name":"KBS-VKP"},{"number":"276-C","name":"KBS-LGH"},{"number":"276-F","name":"KBS-YHKOT"},{"number":"273","name":"KBS-PSS"},{"number":"273-C","name":"KBS-JHC"},{"number":"273-PS","name":"KBS-PSBS"},{"number":"276 PTH-VRP-KBS DOWN","name":"KBS-PTH"},{"number":"276 KBS-VRP-D45G","name":"KBS-D45G"},{"number":"273-B","name":"KBS-ABG"},{"number":"273-H","name":"KBS-SDN"},{"number":"276 KBS-BELF","name":"KBS-BELF"}]},"22":{"coordinates":[77.572579,12.978541],"routes":[{"number":"271-A","name":"KBS-ABGR"},{"number":"271-C","name":"KBS-SGP"},{"number":"271-T","name":"KBS-JPGA"},{"number":"271-B","name":"KBS-2KVP"},{"number":"271-PA","name":"KBS-CKB"}]},"23":{"coordinates":[77.573003,12.978355],"routes":[{"number":"298-M","name":"KBS-DVH"},{"number":"298-MK","name":"KBS-KYR"},{"number":"298-MP","name":"KBS-VJP"},{"number":"297-G KBS-DCH","name":"KBS-DCH"},{"number":"289-Z","name":"KBS-BKH"},{"number":"289-M","name":"KBS-BGR"},{"number":"289-GA","name":"KBS-MRS"},{"number":"298","name":"KBS-SDG"},{"number":"289-CB","name":"KBS-ABML"},{"number":"289-N","name":"KBS-KSH"},{"number":"298-B","name":"KBS-BHP"},{"number":"298-MA","name":"KBS-BMW"},{"number":"298-MC","name":"KBS-VJP"},{"number":"298-MF","name":"KBS-BCK"},{"number":"298-MH","name":"KBS-KHC"},{"number":"298-Y","name":"KBS-YLR"},{"number":"298-Z","name":"KBS-VJP"},{"number":"299-E","name":"KBS-GDH"},{"number":"298-MG KBS-SNH","name":"KBS-SNH"},{"number":"V-298MN","name":"KBS-CBP"},{"number":"RBI-KBS DOWN","name":"KBS-RBI"},{"number":"258-C KBS-RGW","name":"KBS-RGW"}]},"24":{"coordinates":[77.573205,12.977981],"routes":[{"number":"111-C","name":"KBS-KVB"},{"number":"114-B","name":"KBS-MNP"},{"number":"114-C","name":"KBS-STP"},{"number":"145","name":"KBS-NLS"},{"number":"146-F","name":"KBS-KRMTTMC"},{"number":"415-B","name":"KBS-VNH"},{"number":"146","name":"KBS-VVKN"},{"number":"415-H","name":"KBS-AJB"},{"number":"104","name":"KBS-SDSN"}]},"29":{"coordinates":[77.571649,12.978197],"routes":[{"number":"333-E","name":"KBS-KDG"},{"number":"333-C","name":"KBS-BSN"},{"number":"335-E","name":"KBS-KDG"},{"number":"KBS-1I","name":"KBS-KDG"},{"number":"KBS-1K","name":"KBS-KDG"},{"number":"333-H","name":"KBS-MNK"},{"number":"333-F","name":"KBS-DDNK"},{"number":"333-K","name":"KBS-DAN"},{"number":"333-N","name":"KBS-STRP"},{"number":"316-B","name":"KBS-BDG"},{"number":"328-F","name":"KBS-VLP"},{"number":"329-H","name":"KBS-BLK"},{"number":"332-A","name":"KBS-BLG"},{"number":"333-G","name":"KBS-NLH"},{"number":"333-F KBS-MRHB-DDNK","name":"KBS-DDNK"}]},"3A":{"coordinates":[77.572273,12.978054],"routes":[{"number":"240-MB","name":"KBS-MGD"},{"number":"240-H","name":"KBS-LGDNH"},{"number":"240-R","name":"KBS-KCH"},{"number":"241-B","name":"KBS-KCP"},{"number":"241-CB","name":"KBS-YKH"},{"number":"241-CN","name":"KBS-ABVN"},{"number":"241-D","name":"KBS-BRN2"},{"number":"241-E","name":"KBS-LKMB"},{"number":"241-G KBS-SGH","name":"KBS-SGH"},{"number":"241-H","name":"KBS-NHN"},{"number":"241-D KBS-BDG","name":"KBS-BDG"},{"number":"241-S KBS-UST","name":"KBS-UST"},{"number":"241-C KBS-GGP","name":"KBS-GGP"},{"number":"240 KBS-MCH","name":"KBS-MCH"}]},"4A":{"coordinates":[77.571969,12.977848],"routes":[{"number":"245-K","name":"KBS-AVH"},{"number":"245-Q","name":"KBS-BTH"},{"number":"245-GA","name":"KBS-KDBG"},{"number":"245-HA","name":"KBS-NMG"},{"number":"245-J","name":"KBS-KTH"},{"number":"245-MA","name":"KBS-KMS"},{"number":"245-R","name":"KBS-KTH"},{"number":"246","name":"KBS-ANP"}]},"4B":{"coordinates":[77.571908,12.977703],"routes":[{"number":"265","name":"KBS-KBS"},{"number":"G-7","name":"KBS-JPTS"},{"number":"V-G7","name":"KBS-JPTS"},{"number":"265-A","name":"KBS-KBS"},{"number":"265-B","name":"KBS-TGRP"},{"number":"265-E","name":"KBS-MTH"}]},"6A":{"coordinates":[77.572038,12.978042],"routes":[{"number":"80-G","name":"KBS-SMH"},{"number":"80-A D31G-KBS DOWN","name":"KBS-D31G"},{"number":"80-E","name":"KBS-2SKTN"},{"number":"80-R","name":"KBS-RPB"},{"number":"80-K","name":"KBS-SKMLO"},{"number":"80-F","name":"KBS-JBN"}]},"8A":{"coordinates":[77.572462,12.978144],"routes":[{"number":"45-D","name":"KBS-AGSLA"},{"number":"45-G","name":"KBS-CKA"},{"number":"45-E","name":"KBS-CKA"},{"number":"45-F","name":"KBS-CKA"},{"number":"45-D KBS-PPLO","name":"KBS-PPLO"},{"number":"45-DG","name":"KBS-GTLO"},{"number":"45-B","name":"KBS-BVN"},{"number":"45-EA","name":"KBS-CKA"},{"number":"49","name":"KBS-BRDVN"}]},"8B":{"coordinates":[77.572632,12.978095],"routes":[{"number":"210-N","name":"KBS-UTH"},{"number":"210-KA","name":"KBS-CKLS"},{"number":"210-J","name":"KBS-RML"},{"number":"210-NA","name":"KBS-PPLO"},{"number":"210-NB","name":"KBS-BSK5"},{"number":"210-NG","name":"KBS-UTH"},{"number":"210-NH","name":"KBS-UTH"},{"number":"210-B KBS-KMT-CHG","name":"KBS-CHG"}]},"12A":{"coordinates":[77.572653,12.978244],"routes":[{"number":"168-D","name":"KBS-TVK"},{"number":"168-D VSD","name":"KBS-VSD-TVK"},{"number":"364-A","name":"KBS-MSCA"},{"number":"364-B","name":"KBS-DCH"},{"number":"364-C","name":"KBS-VBLO"},{"number":"364-F","name":"KBS-NPHA"},{"number":"364-G KBS-D34G","name":"KBS-D34G"}]},"11B":{"coordinates":[77.57296,12.978012],"routes":[{"number":"12","name":"KBS-BSK"},{"number":"KBS-5H","name":"KBS-HRH"},{"number":"18","name":"KBS-JNN"},{"number":"217-D","name":"KBS - LMT"},{"number":"215-R","name":"KBS-HNR"},{"number":"215-E","name":"KBS-ELO"},{"number":"364-G","name":"KBS-KCH"},{"number":"215-NC","name":"KBS-AJP10"},{"number":"215-N","name":"KBS-ANP"},{"number":"12-B","name":"KBS-PNN"}]},"11A":{"coordinates":[77.573017,12.97791],"routes":[{"number":"211-J","name":"KBS-VDH"},{"number":"211-L","name":"KBS-BCMCL"},{"number":"212-D","name":"KBS-AGR"},{"number":"213-N","name":"KBS-NTG"},{"number":"211 KBS-VLS","name":"KBS-VLS"}]},"15A":{"coordinates":[77.572201,12.978273],"routes":[{"number":"KBS-3A","name":"KBS-ATB"},{"number":"KBS-3C","name":"KBS-CPR"},{"number":"356-M","name":"KBS-ANK"},{"number":"KBS-3E","name":"KBS-ELCW"},{"number":"KBS-3F","name":"KBS-ATB"},{"number":"360-K","name":"KBS-ATB"},{"number":"360-J","name":"KBS-HNDL"},{"number":"360-S","name":"KBS-SMDR"},{"number":"355-C KBS-D27G","name":"KBS-D27"},{"number":"355-A","name":"KBS-SRP"},{"number":"352-A","name":"KBS-HNG"},{"number":"351-A","name":"KBS-NRG"},{"number":"353-C","name":"KBS-JGNBS"},{"number":"360-Q KBS-DSP","name":"KBS-DSP"},{"number":"356-M KBS-D32","name":"KBS-D32"}]},"17A":{"coordinates":[77.571858,12.978085],"routes":[{"number":"V-365J","name":"KBS-JAPC"},{"number":"V-365","name":"KBS-BNP"},{"number":"C-365","name":"KBS-BNP"}]},"18A":{"coordinates":[77.571697,12.977834],"routes":[{"number":"314-D","name":"KBS-MNBS"},{"number":"138","name":"KBS-JBN"},{"number":"314-X","name":"KBS-ABH"},{"number":"314-B","name":"KBS-CVRN"},{"number":"314-T","name":"KBS-RMSN"},{"number":"314-H","name":"KBS-MLPNBS"}]},"23D":{"coordinates":[77.573328,12.977845],"routes":[{"number":"288-D","name":"KBS-KDG"},{"number":"288-G","name":"KBS-KDHCB"},{"number":"288-H","name":"KBS-TDL"},{"number":"288-DA","name":"KBS-SKB"},{"number":"288 KBS-TDL","name":"KBS-TDL"}]},"23C":{"coordinates":[77.573269,12.977978],"routes":[{"number":"284","name":"KBS-YHKOT"},{"number":"280-K","name":"KBS-MTH"},{"number":"280-L","name":"KBS-YPH"},{"number":"281-F KBS-MYH-HNS","name":"KBS-HNR"},{"number":"281-G","name":"KBS-BKHP"},{"number":"282-D KBS-VVC","name":"KBS-VVC"},{"number":"282-F","name":"KBS-MRNH"},{"number":"282-G","name":"KBS-KDGLT"},{"number":"284 KBS-KVRY","name":"KBS-KVRY"},{"number":"284-C KBS-JLOW","name":"KBS-JLOW"},{"number":"280 KBS-YHK-CHLS","name":"KBS-CHLS"},{"number":"281-AP KBS-KIA","name":"KBS-KIA"},{"number":"280-A AGLO-KBS DOWN","name":"KBS-AGLO"}]},"23B":{"coordinates":[77.573218,12.978114],"routes":[{"number":"402-B","name":"KBS-YSTF"},{"number":"286-G","name":"KBS-JKR"},{"number":"286-AA","name":"KBS-JKLOA"},{"number":"279-E","name":"KBS-HBL279-E"},{"number":"402-C","name":"KBS-ATR"},{"number":"299","name":"KBS-TBH"},{"number":"286-F","name":"KBS-KNP"},{"number":"279-E KBS-VSD-HBL","name":"KBS-HBL"},{"number":"369-D","name":"KBS-SKLO"},{"number":"287-G","name":"KBS-CBL"},{"number":"279-E  KBS-D14G","name":"KBS-D14G"}]},"23A":{"coordinates":[77.573102,12.978253],"routes":[{"number":"285-M KBS-BMSIT","name":"KBS-BMSIT"},{"number":"V-285M","name":"KBS-DBP"},{"number":"285-M","name":"KBS-DBP"},{"number":"284-D","name":"KBS-YST"},{"number":"285 KBS-YST-PTH","name":"KBS-PTH"},{"number":"285 KBS-VPSH","name":"KBS-VPSH"},{"number":"284-KA","name":"KBS-JSNL"},{"number":"285-AA","name":"KBS-RJK"},{"number":"285-MF","name":"KBS-KDGH"},{"number":"284-C","name":"KBS-JCLO"},{"number":"285-A KBS-NGDH","name":"KBS-NGDH"},{"number":"285-H KBS-KLRH","name":"KBS-KLRH"},{"number":"285 KBS-SRKMS","name":"KBS-SRKMS"}]},"20B":{"coordinates":[77.572098,12.978533],"routes":[{"number":"258-TC","name":"KBS-NGH"},{"number":"258-VA","name":"KBS-HMP"},{"number":"258-VB","name":"KBS-CKMH"},{"number":"258-VF","name":"KBS-YNGR"},{"number":"258-V KBS-GRH","name":"KBS-GRH"},{"number":"258-VG","name":"KBS-UDK"},{"number":"258-VD","name":"KBS-KKH"}]},"20A":{"coordinates":[77.571942,12.978477],"routes":[{"number":"258-F","name":"KBS-SVNP"},{"number":"258-QA","name":"KBS-MTK"},{"number":"258-TA","name":"KBS-KNM"},{"number":"258-SD KBS-BNH","name":"KBS-BNH"},{"number":"258-SB","name":"KBS-THP"}]},"19D":{"coordinates":[77.571685,12.978305],"routes":[{"number":"290-EY","name":"KBS-YHK"},{"number":"291-H","name":"KBS-RKHN"},{"number":"290-J","name":"KBS-MSP"},{"number":"290-B","name":"KBS-TNS"},{"number":"290-M","name":"KBS-TLAN"}]},"19C":{"coordinates":[77.571614,12.978235],"routes":[{"number":"300-H","name":"KBS-KRPGH"},{"number":"300-C","name":"KBS-KRPGH"},{"number":"300-MV","name":"KBS-SMVRS"},{"number":"301-F","name":"KBS-KTR"},{"number":"302-A","name":"KBS-BBSP"},{"number":"302-B","name":"KBS-KLN"},{"number":"302-F","name":"KBS-BBP"},{"number":"300-B","name":"KBS-BSW"}]},"19B":{"coordinates":[77.57155,12.978147],"routes":[{"number":"129","name":"KBS-SBS"},{"number":"122","name":"KBS-OBH"},{"number":"126","name":"KBS-JVH"},{"number":"V-129","name":"KBS-SBS"},{"number":"296","name":"KBS-5BHBRL"},{"number":"296-B","name":"KBS-HBRL5B"}]},"29A":{"coordinates":[77.57161,12.978121],"routes":[{"number":"305-D","name":"KBS-CNS"},{"number":"KBS-12HK","name":"KBS-HSK"},{"number":"KBS-13K","name":"KBS-KDG"},{"number":"V-317A","name":"KBS-HSKT"},{"number":"304-Z","name":"KBS-CKTP"},{"number":"304-H","name":"KBS-AHL"},{"number":"304-X","name":"KBS-AHL"},{"number":"304-J","name":"KBS-KAH"},{"number":"304-B","name":"KBS-KLR"},{"number":"306-D","name":"KBS-DVG"},{"number":"323-F","name":"KBS-NRG"},{"number":"317-A KBS-VSD-HSK","name":"KBS-VSD-HSK"},{"number":"308 KMS-KBS DOWN","name":"KBS-KMS"},{"number":"304-R","name":"KBS-BNBG"},{"number":"305-L","name":"KBS-VGT"},{"number":"305-M","name":"KBS-TBH"},{"number":"305-Q","name":"KBS-PGH"},{"number":"305-V","name":"KBS-DVPC"},{"number":"306-E KBS-NYK","name":"KBS-NYK"},{"number":"306-F KBS-BRH","name":"KBS-BRH"},{"number":"306-L KBS-MSD","name":"KBS-MSD"},{"number":"315-K","name":"KBS-KRP"},{"number":"315-J","name":"KBS-RMP"},{"number":"315-MF","name":"KBS-KRPGH"},{"number":"316-F","name":"KBS-CMS"},{"number":"316-G","name":"KBS-MDR"},{"number":"316-M","name":"KBS-SGH"},{"number":"317-P","name":"KBS-KNM"},{"number":"317-V","name":"KBS-NDV"},{"number":"318 KBS-JTP","name":"KBS-JYP"},{"number":"321-G","name":"KBS-MTK"},{"number":"322-A","name":"KBS-TNR"},{"number":"323-AB","name":"KBS-JGH"},{"number":"323-AK","name":"KBS-GHP"},{"number":"325-A","name":"KBS-HRH"},{"number":"327-A","name":"KBS-DMS"},{"number":"381-E","name":"KBS-KBP"},{"number":"382-C KBS-DNH","name":"KBS-DNH"},{"number":"383-A","name":"KBS-PAH"}]},"19A":{"coordinates":[77.571491,12.978043],"routes":[{"number":"226-N","name":"KBS-BDD"},{"number":"226-NA","name":"KBS-KMP"},{"number":"226-SB","name":"KBS-BRM"},{"number":"227-BA","name":"KBS-TVK"},{"number":"227-HA","name":"KBS-KRBP"},{"number":"227-P KBS-HNG","name":"KBS-HNGR"},{"number":"228-H","name":"KBS-TPR"},{"number":"228-J","name":"KBS-SRVP"},{"number":"229-B KBS-DVG","name":"KBS-DVGR"},{"number":"231-M","name":"KBS-BDD"},{"number":"234-E","name":"KBS-UST"},{"number":"234-EC","name":"KBS-UST"},{"number":"234-C","name":"KBS-MGH"},{"number":"226-V KBS-HGH","name":"KBS-HGH"},{"number":"227-RA","name":"KBS-SSGM"},{"number":"V-226KBS","name":"KBS-WAP"},{"number":"381","name":"KBS-TMS"},{"number":"383-D","name":"KBS-HSH"},{"number":"230-B","name":"KBS-BTPL"},{"number":"234-F KBS-AGSLO","name":"KBS-AGSLO"}]}}}
+{
+  "20921": {
+    "1": {
+      "coordinates": [77.572829, 12.977732],
+      "routes": [
+        { "number": "61-A", "name": "KBS-CLO" },
+        { "number": "87", "name": "KBS-RPCLO" },
+        { "number": "87 KBS-DPJN", "name": "KBS-DPJN" },
+        { "number": "61-J", "name": "KBS-CLO1" },
+        { "number": "61-M", "name": "KBS-VLOCLO" },
+        { "number": "61-F", "name": "KBS-GKWLO" }
+      ]
+    },
+    "2": {
+      "coordinates": [77.572687, 12.977939],
+      "routes": [
+        { "number": "223-PA", "name": "KBS-URLO" },
+        { "number": "235-K", "name": "KBS-DBT" },
+        { "number": "238-C", "name": "KBS-BMBS" },
+        { "number": "235-K KBS-RMS", "name": "KBS-RMS" }
+      ]
+    },
+    "3": {
+      "coordinates": [77.572486, 12.978041],
+      "routes": [
+        { "number": "238-U KBS-BUCADM", "name": "KBS-BUCADM" },
+        { "number": "238-UC", "name": "KBS-VSL9" },
+        { "number": "238-W", "name": "KBS-NRP" },
+        { "number": "238-Y", "name": "KBS-ITILO" },
+        { "number": "238-VA", "name": "KBS-MDP" },
+        { "number": "238-US", "name": "KBS-SGBS" },
+        { "number": "238-U", "name": "KBS-MDPC" },
+        { "number": "238-U D31G-KBS DOWN", "name": "KBS-D31G" },
+        { "number": "238-U KBS-AIT", "name": "KBS-AIT" },
+        { "number": "238-U KBS-DPJN", "name": "KBS-DPJN" },
+        { "number": "238-U KBS-CLO", "name": "KBS-CLO" },
+        { "number": "238-U KBS-SMH", "name": "KBS-SMH" }
+      ]
+    },
+    "4": {
+      "coordinates": [77.572105, 12.977986],
+      "routes": [
+        { "number": "242-B", "name": "KBS-TVK" },
+        { "number": "242-B KBS-D35G", "name": "KBS-D35G" },
+        { "number": "242-FB", "name": "KBS-YLCGP" },
+        { "number": "242-U KBS-LKSMP", "name": "KBS-LKSMP" },
+        { "number": "243-D", "name": "KBS-TGP" },
+        { "number": "242-B KBS-JSN", "name": "KBS-JSN" },
+        { "number": "242-J KBS-DMH", "name": "KBS-DMH" },
+        { "number": "242-MA KBS-SLVR", "name": "KBS-SLVR" },
+        { "number": "242-P KBS-HVLH", "name": "KBS-HLVH" },
+        { "number": "242-Q KBS-GGH", "name": "KBS-GGH" },
+        { "number": "242-TA KBS-MTK", "name": "KBS-MTK" },
+        { "number": "242-Y KBS-AMP", "name": "KBS-AMP" },
+        { "number": "242-Z", "name": "KBS-TGH" },
+        { "number": "242-T", "name": "KBS-HNG" },
+        { "number": "242-ZD", "name": "KBS-KLR" },
+        { "number": "243-A", "name": "KBS-URLO" },
+        { "number": "243-F", "name": "KBS-GKH" },
+        { "number": "243-J", "name": "KBS-BVN2" },
+        { "number": "243-L", "name": "KBS-LDH" },
+        { "number": "242-B KBS-TVK-NML", "name": "KBS-NML" },
+        { "number": "242-ZC KBS-CFLS", "name": "KBS-CFLS" },
+        { "number": "242-B D31G-KBS DOWN", "name": "D31G-KBS" }
+      ]
+    },
+    "5": {
+      "coordinates": [77.571837, 12.977804],
+      "routes": [
+        { "number": "89-C", "name": "KBS-CVN" },
+        { "number": "96-B", "name": "KBS-BEMLLOK" },
+        { "number": "D7-KBS DOWN", "name": "KBS-D7" },
+        { "number": "KIA-9", "name": "KBS-KIA" },
+        { "number": "89-D", "name": "KBS-JCN" },
+        { "number": "222-A KWS-KBS DOWN", "name": "KBS-KWS" },
+        { "number": "KBS-DPJN", "name": "KBS-DPJN" },
+        { "number": "KBS-CVB", "name": "KBS-CVB" },
+        { "number": "96-A", "name": "KBS-KBS" },
+        { "number": "KBS-YST-PTH", "name": "KBS-PTH" },
+        { "number": "KBS-KMT-GAT", "name": "KBS-GAT" },
+        { "number": "213-H KBS-BHKVL", "name": "KBS-BHKVL" },
+        { "number": "214-C KBS-MKD", "name": "KBS-MKD" },
+        { "number": "210-WA KBS-BEML5", "name": "KBS-BEML5" },
+        { "number": "210-E KBS-CEC", "name": "KBS-CECV" },
+        { "number": "210-KA KBS-PPLO", "name": "KBS-PPLO" },
+        { "number": "317-A D24G-KBS DOWN", "name": "KBS-D24G" },
+        { "number": "316-J KBS-KTGH", "name": "KBS-KTGH" },
+        { "number": "10-J DPJN-NDH-KBS DOWN", "name": "KBS-NDH-DPJN" },
+        { "number": "325 KBS-HAL-HRH", "name": "KBS-HAL-HRH" },
+        { "number": "210-ND KBS-PPLO", "name": "KBS-PPLO" },
+        { "number": "96-G", "name": "KBS-SNB" },
+        { "number": "88", "name": "KBS-BSN" },
+        { "number": "96", "name": "KBS-KBS" },
+        { "number": "370-A KBS-UJPD", "name": "KBS-UJPD" },
+        { "number": "217-D KBS-SHV", "name": "KBS-SHV" },
+        { "number": "V-BENGALURU DARSHINI", "name": "KBS-KBS" },
+        { "number": "88-B", "name": "KBS-BSN" },
+        { "number": "245-M KBS-BMTCTC-MDH", "name": "KBS-MDH" },
+        { "number": "245-R KBS-DJP", "name": "KBS-DJP" },
+        { "number": "96-E", "name": "KBS-KMLN" },
+        { "number": "96-C", "name": "KBS-SNB" },
+        { "number": "326-D KBS-HSK", "name": "KBS-HSK" },
+        { "number": "89-E", "name": "KBS-CVN" },
+        { "number": "KBS-RMCPFO", "name": "KBS-RMCPFO" },
+        { "number": "KBS-ESI-YTTMC", "name": "KBS-YTTMC" },
+        { "number": "369-K KBS-DLF", "name": "KBS-DLF" },
+        { "number": "89-A", "name": "KBS-CVN" },
+        { "number": "89-F", "name": "KBS-GBER" },
+        { "number": "293-S KBS-HNS", "name": "KBS-HNS" },
+        { "number": "89-B", "name": "KBS-GLB" },
+        { "number": "372-E KBS-CNP", "name": "KBS-CNP" },
+        { "number": "90-E KBS-YTTMC", "name": "KBS-YTTMC" },
+        { "number": "350-E KBS-NJP", "name": "KBS-NJP" },
+        { "number": "358 KBS-MYS", "name": "KBS-MYS" },
+        { "number": "KBS-LMG-CPR-RMH", "name": "KBS-RMH" },
+        { "number": "293 SVPS-KBS DOWN", "name": "KBS-SVPS" },
+        { "number": "350-A KBS-TRP", "name": "KBS-TRP" },
+        { "number": "171 KBS-SNCA", "name": "KBS-SNCA" },
+        { "number": "22", "name": "KBS-BRS" },
+        { "number": "224-A KBS-VRS", "name": "KBS-VRS" },
+        { "number": "KBS-1K KBS-D41G", "name": "KBS-D41G" },
+        { "number": "323-AK KBS-D41G", "name": "KBS-D41G" },
+        { "number": "138 KBS-SVMS", "name": "KBS-SVMS" },
+        { "number": "KBS-VSD-RMB KRPGH", "name": "KBS-KRPGH" },
+        { "number": "222-A KBS-DPJN", "name": "KBS-DPJN" },
+        { "number": "82-A YTTMC-VSD-KBS DOWN", "name": "KBS-YTTMC" },
+        { "number": "415-B KBS-VSD-VNH", "name": "KBS-VSD-VNH" },
+        { "number": "314-B KBS-CVRNRG", "name": "KBS-CVRNRG" },
+        { "number": "82-B", "name": "KBS-YPRS" },
+        { "number": "370-E", "name": "KBS-RMND" },
+        { "number": "245-M", "name": "KBS-SKDK" },
+        { "number": "KBS-1I KBS-KVASC", "name": "KBS-KVASC" },
+        { "number": "234-E KBS-KMT-UST", "name": "KBS-UST" },
+        { "number": "V-45G", "name": "KBS-CKA" },
+        { "number": "V-171", "name": "KBS-KRM" },
+        { "number": "210-N BEML5TS-KBS DOWN", "name": "KBS-BEMLL5TS" },
+        { "number": "V-300MV", "name": "KBS-SMVR" },
+        { "number": "V-360B Flyover", "name": "V-360B FLY KBS-ATB" },
+        { "number": "298-Y KBS-YLR-VJP", "name": "KBS-VJP" },
+        { "number": "288-H D45-TDL-KBS DOWN", "name": "KBS-D45" },
+        { "number": "245-Q KBS-VDH-BTH", "name": "KBS-VDH-BTH" },
+        { "number": "146-B", "name": "KBS-SNL" },
+        { "number": "285-KA KBS-BTN", "name": "KBS-BTN" },
+        { "number": "238-V", "name": "KBS-MDPC" },
+        { "number": "328-K", "name": "KBS-MRN" },
+        { "number": "342-F KBS-D42G", "name": "KBS-D42G" },
+        { "number": "KBS-TNF-KRPGH", "name": "KBS-KRPGH" },
+        { "number": "25-B", "name": "KBS-AGL" },
+        { "number": "365-P KBS-D27G", "name": "KBS-D27G" },
+        { "number": "215-M", "name": "KBS-VKN" },
+        { "number": "284-C KBS-KRC-JLOW", "name": "KBS-JDLW" },
+        { "number": "355", "name": "KBS-BMSV" },
+        { "number": "258-MA JKNH-KBS DOWN", "name": "KBS-JKNH" },
+        { "number": "298-B KBS-ANSR-BCP", "name": "KBS-BCP" },
+        { "number": "210-B KBS-KMT-KTNR", "name": "KBS-KMT-KTNR" },
+        { "number": "347-C KBS-LMG-CKBR", "name": "KBS-CKBR" },
+        { "number": "273 KBS-HMTA-PSBS", "name": "KBS-PSBS" },
+        { "number": "221-J TVK-KMT-KBS DOWN", "name": "KBS-TVK" },
+        { "number": "285-M KBS-DBPH", "name": "KBS-DBPH" },
+        { "number": "254-E KBS-KMP", "name": "KBS-KMP" },
+        { "number": "297-C", "name": "KBS-BHGS" }
+      ]
+    },
+    "6": {
+      "coordinates": [77.571922, 12.977935],
+      "routes": [
+        { "number": "80", "name": "KBS-MLO" },
+        { "number": "80-A", "name": "KBS-NLO" },
+        { "number": "80-B", "name": "KBS-JMN" },
+        { "number": "80-D", "name": "KBS-RBJM" }
+      ]
+    },
+    "7": {
+      "coordinates": [77.572159, 12.978113],
+      "routes": [
+        { "number": "252-F", "name": "KBS-PSS" },
+        { "number": "252-H", "name": "KBS-LGR" },
+        { "number": "252-FC", "name": "KBS-TGPY" }
+      ]
+    },
+    "8": {
+      "coordinates": [77.572326, 12.978144],
+      "routes": [
+        { "number": "43-H", "name": "KBS-PRMLO" },
+        { "number": "43-E", "name": "KBS-BSK3" },
+        { "number": "43-B", "name": "KBS-HSKH" },
+        { "number": "43-A", "name": "KBS-VVKN" },
+        { "number": "43-C", "name": "KBS-MNKK" },
+        { "number": "43-D", "name": "KBS-VBN" },
+        { "number": "43-J", "name": "KBS-HKL" },
+        { "number": "43", "name": "KBS-BSK3" },
+        { "number": "43-JA", "name": "KBS-BRN" }
+      ]
+    },
+    "9": {
+      "coordinates": [77.572806, 12.977988],
+      "routes": [
+        { "number": "210-P", "name": "KBS-CKLS" },
+        { "number": "10-J", "name": "KBS-AHBDA" },
+        { "number": "210-X", "name": "KBS-CDRN" },
+        { "number": "210-WA", "name": "KBS-TRH" },
+        { "number": "210-U", "name": "KBS-KSLOW" },
+        { "number": "210-NP", "name": "KBS-PPLO" }
+      ]
+    },
+    "10": {
+      "coordinates": [77.572925, 12.977775],
+      "routes": [
+        { "number": "36-B", "name": "KBS-GNE" },
+        { "number": "36-G", "name": "KBS-AVLNBDA" },
+        { "number": "35", "name": "KBS-KGSP" },
+        { "number": "36-A", "name": "KBS-AHBDAP" },
+        { "number": "36-D", "name": "KBS-MBK" },
+        { "number": "31", "name": "KBS-NRC" },
+        { "number": "36-F", "name": "KBS-KDLO" },
+        { "number": "36", "name": "KBS-SRN" }
+      ]
+    },
+    "11": {
+      "coordinates": [77.573074, 12.977793],
+      "routes": [
+        { "number": "210-A.", "name": "KBS-ISROL" },
+        { "number": "210-W", "name": "KBS-KRYP" },
+        { "number": "15-E", "name": "KBS-KSLO" },
+        { "number": "15-E KBS-PPLO", "name": "KBS-PPLO" },
+        { "number": "15-G", "name": "KBS-KSLOW" },
+        { "number": "2", "name": "KBS-JPN6" },
+        { "number": "215-H", "name": "KBS-JSD" },
+        { "number": "215-H KBS-D34G", "name": "KBS-D34G" },
+        { "number": "210-R", "name": "KBS-VSP" },
+        { "number": "2-E", "name": "KBS-JPN6" },
+        { "number": "215-BA KBS-BCMC", "name": "KBS-BCMCL" },
+        { "number": "215-ND", "name": "KBS-AJP" },
+        { "number": "210-E", "name": "KBS-VSP" },
+        { "number": "2-A", "name": "KBS-JPN1" },
+        { "number": "215 KBS-D44G", "name": "KBS-D44G" },
+        { "number": "215-H KBS-JSD-BNP", "name": "KBS-BNP" },
+        { "number": "215-B KBS-ABDA", "name": "KBS-ABDA" }
+      ]
+    },
+    "12": {
+      "coordinates": [77.57276, 12.97819],
+      "routes": [
+        { "number": "25-A", "name": "KBS-BTM" },
+        { "number": "25-E", "name": "KBS-JPN3" },
+        { "number": "25-H", "name": "KBS-NSP" },
+        { "number": "25-N", "name": "KBS-MDN" },
+        { "number": "V-25A", "name": "KBS-BTM" },
+        { "number": "25", "name": "KBS-BTM" }
+      ]
+    },
+    "13": {
+      "coordinates": [77.572543, 12.978275],
+      "routes": [
+        { "number": "171-G", "name": "KBS-KRM" },
+        { "number": "171", "name": "KBS-KRM1" },
+        { "number": "171-C", "name": "KBS-KDS" }
+      ]
+    },
+    "14": {
+      "coordinates": [77.572446, 12.978294],
+      "routes": [
+        { "number": "342-F", "name": "KBS-SJP" },
+        { "number": "343-E", "name": "KBS-BGR" },
+        { "number": "343-L", "name": "KBS-HGSML" },
+        { "number": "342-JB", "name": "KBS-VGKH" },
+        { "number": "V-342F", "name": "KBS-SJP" },
+        { "number": "340 KBS-GJRP", "name": "KBS-GJRP" },
+        { "number": "341-B KBS-CSR", "name": "341-B KBS-CSR" },
+        { "number": "341-C KBS-KDRM", "name": "KBS-KRDM" },
+        { "number": "343-A", "name": "KBS-HLH" },
+        { "number": "343-B", "name": "KBS-BGRL" },
+        { "number": "343-K", "name": "KBS-VPLO" },
+        { "number": "342-F KBS-PESCK", "name": "KBS-PESCK" },
+        { "number": "340-A KBS-ADG-HSRKEB", "name": "KBS-HSRKEB" },
+        { "number": "340-A KBS-ADG-HSR 2nd", "name": "KBS-HSR 2nd" },
+        { "number": "242-N KBS-GDH", "name": "KBS-GDH" },
+        { "number": "240-E KBS-BKH", "name": "KBS-BKH" }
+      ]
+    },
+    "15": {
+      "coordinates": [77.57232, 12.978299],
+      "routes": [
+        { "number": "348-G", "name": "KBS-HSPK" },
+        { "number": "349-C", "name": "KBS-HSKR" },
+        { "number": "346-C", "name": "KBS-RYS" },
+        { "number": "347-F", "name": "KBS-BCJ" },
+        { "number": "346-M KBS-GLH", "name": "KBS-GLH" },
+        { "number": "347-C", "name": "KBS-CKBR" },
+        { "number": "347-H", "name": "KBS-BEC" },
+        { "number": "347-L", "name": "KBS-HKG" },
+        { "number": "347-N", "name": "KBS-AECSLS" },
+        { "number": "348", "name": "KBS-HSPK" },
+        { "number": "348-E KBS-MGP", "name": "KBS-MGP" },
+        { "number": "359-A", "name": "KBS-ADGH" },
+        { "number": "359", "name": "KBS-GDT" },
+        { "number": "357 KBS-BDP", "name": "KBS-BNP" },
+        { "number": "354-C", "name": "KBS-MRS" },
+        { "number": "352-E KBS-MHDB", "name": "KBS-MHDB" },
+        { "number": "356-A", "name": "KBS-TTNH" },
+        { "number": "351-C KBS-RMS", "name": "KBS-RMS" },
+        { "number": "351-J", "name": "KBS-HDLA" },
+        { "number": "351-M", "name": "KBS-MTN" },
+        { "number": "352-B", "name": "KBS-MDB" },
+        { "number": "354-B", "name": "KBS-STH" },
+        { "number": "346-CK", "name": "KBS-KSDBA" },
+        { "number": "346-N", "name": "KBS-DDT" },
+        { "number": "350-D KBS-SPN", "name": "KBS-SPN" },
+        { "number": "347-E", "name": "KBS-HSR" },
+        { "number": "347-B", "name": "KBS-HRL" }
+      ]
+    },
+    "16": {
+      "coordinates": [77.572084, 12.978237],
+      "routes": [
+        { "number": "V-360B", "name": "KBS-ATB" },
+        { "number": "V-356M", "name": "KBS-ANKL" },
+        { "number": "V-356M FLY", "name": "KBS-ANKL" },
+        { "number": "V-356", "name": "KBS-CDP" }
+      ]
+    },
+    "17": {
+      "coordinates": [77.571967, 12.978177],
+      "routes": [
+        { "number": "365", "name": "KBS-BNP" },
+        { "number": "365-P", "name": "KBS-ANKL" },
+        { "number": "365-J", "name": "KBS-JAPC" },
+        { "number": "365-EA", "name": "KBS-KSVKT" },
+        { "number": "369-G", "name": "KBS-CKH" },
+        { "number": "365-D", "name": "KBS-BVH" },
+        { "number": "365-E", "name": "KBS-SBH" },
+        { "number": "365-K", "name": "KBS-CKB" },
+        { "number": "365-H", "name": "KBS-JAPC" },
+        { "number": "365-R", "name": "KBS-BSPC" },
+        { "number": "365-S", "name": "KBS-MRTD" },
+        { "number": "365-B", "name": "KBS-MNLS" },
+        { "number": "365-Q", "name": "KBS-DYVS" },
+        { "number": "365-N", "name": "KBS-GDH" },
+        { "number": "365-W", "name": "KBS-VMH" },
+        { "number": "365 KBS-D34G", "name": "KBS-D4G" },
+        { "number": "371-D", "name": "KBS-KGP" },
+        { "number": "372-F", "name": "KBS-NSB" },
+        { "number": "372-MA", "name": "KBS-TNH" },
+        { "number": "365-J KBS-D27", "name": "KBS-D27" },
+        { "number": "369-C", "name": "KBS-HLM" },
+        { "number": "365 KBS-APSH", "name": "KBS-APSH" },
+        { "number": "365-E KBS-BTD", "name": "KBS-BTD" },
+        { "number": "369-J", "name": "KBS-CKP" },
+        { "number": "365 KBS-JRML", "name": "KBS-JMLO" },
+        { "number": "365-E KBS-BTRD", "name": "KBS-BTRD" },
+        { "number": "365-J KBS-JGN-UAV", "name": "KBS-UVA" }
+      ]
+    },
+    "18": {
+      "coordinates": [77.571761, 12.977969],
+      "routes": [
+        { "number": "V-335E", "name": "KBS-KDG" },
+        { "number": "V-333E", "name": "KBS-KDG" }
+      ]
+    },
+    "19": {
+      "coordinates": [77.571433, 12.977914],
+      "routes": [
+        { "number": "222-C", "name": "KBS-UPDB" },
+        { "number": "222-F", "name": "KBS-SHIRKE" },
+        { "number": "222-A", "name": "KBS-KST" },
+        { "number": "222-N", "name": "KBS-JBWSH" },
+        { "number": "220-F", "name": "KBS-PSA" },
+        { "number": "221-F", "name": "KBS-HMH" },
+        { "number": "221-G", "name": "KBS-BMBRE" },
+        { "number": "224-C", "name": "KBS-KBL" },
+        { "number": "225-AB", "name": "KBS-CGP" },
+        { "number": "225-C", "name": "KBS-BEML5" },
+        { "number": "225-CB", "name": "KBS-BHELLOWT" },
+        { "number": "225-CF", "name": "KBS-BGSHC" },
+        { "number": "225-D KBS-BHELCL", "name": "KBS-BHELCLO" },
+        { "number": "225-G", "name": "KBS-BNGPN" },
+        { "number": "225-CC", "name": "KBS DRF" },
+        { "number": "218-A", "name": "KBS-KBP" },
+        { "number": "221-J KBS-GGH", "name": "KBS-GLGJH" },
+        { "number": "225-C KBS-PTLMT", "name": "KBS-PTLMT" },
+        { "number": "225-AB KBS-HVH-CGP", "name": "KBS-CGP" }
+      ]
+    },
+    "20": {
+      "coordinates": [77.571823, 12.978413],
+      "routes": [
+        { "number": "258-C", "name": "KBS-NMG" },
+        { "number": "258-CC", "name": "KBS-NMG" },
+        { "number": "258-DN KBS-DBSP", "name": "KBS-DBSPT" },
+        { "number": "258-T", "name": "KBS-KSGT" },
+        { "number": "258-B", "name": "KBS-NMG" },
+        { "number": "258-YA", "name": "KBS1-HCP1" },
+        { "number": "258-C KBS-NMGRS", "name": "KBS-NMGRS" },
+        { "number": "255-D", "name": "KBS-HSKR" },
+        { "number": "256-MA", "name": "KBS-THPL" },
+        { "number": "257-C", "name": "KBS-RVTH" },
+        { "number": "255-E KBS-NSP", "name": "KBS-NSP" },
+        { "number": "255-B", "name": "KBS-BELT" },
+        { "number": "255-C KBS-PLH", "name": "KBS-PLH" },
+        { "number": "257-E", "name": "KBS-ARPY" },
+        { "number": "258-C KBS-GDP", "name": "KBS-GNDP" },
+        { "number": "255-AE", "name": "KBS-ALRB2" },
+        { "number": "255-AA", "name": "KBS-MTH" },
+        { "number": "258-M KBS-TMG", "name": "KBS-TMG" },
+        { "number": "258-C KBS-GPLY", "name": "KBS-GPLY" },
+        { "number": "305-S", "name": "KBS-NDV" },
+        { "number": "258 KBS-SMP", "name": "KBS-SMP" }
+      ]
+    },
+    "21": {
+      "coordinates": [77.572249, 12.978567],
+      "routes": [
+        { "number": "276", "name": "KBS-VRP" },
+        { "number": "276 KBS-PTH", "name": "KBS-PTH" },
+        { "number": "276 D45-VRP-KBS DOWN", "name": "KBS-D45G" },
+        { "number": "V-276", "name": "KBS-VRP" },
+        { "number": "276-B", "name": "KBS-VKP" },
+        { "number": "276-C", "name": "KBS-LGH" },
+        { "number": "276-F", "name": "KBS-YHKOT" },
+        { "number": "273", "name": "KBS-PSS" },
+        { "number": "273-C", "name": "KBS-JHC" },
+        { "number": "273-PS", "name": "KBS-PSBS" },
+        { "number": "276 PTH-VRP-KBS DOWN", "name": "KBS-PTH" },
+        { "number": "276 KBS-VRP-D45G", "name": "KBS-D45G" },
+        { "number": "273-B", "name": "KBS-ABG" },
+        { "number": "273-H", "name": "KBS-SDN" },
+        { "number": "276 KBS-BELF", "name": "KBS-BELF" }
+      ]
+    },
+    "22": {
+      "coordinates": [77.572579, 12.978541],
+      "routes": [
+        { "number": "271-A", "name": "KBS-ABGR" },
+        { "number": "271-C", "name": "KBS-SGP" },
+        { "number": "271-T", "name": "KBS-JPGA" },
+        { "number": "271-B", "name": "KBS-2KVP" },
+        { "number": "271-PA", "name": "KBS-CKB" }
+      ]
+    },
+    "23": {
+      "coordinates": [77.573003, 12.978355],
+      "routes": [
+        { "number": "298-M", "name": "KBS-DVH" },
+        { "number": "298-MK", "name": "KBS-KYR" },
+        { "number": "298-MP", "name": "KBS-VJP" },
+        { "number": "297-G KBS-DCH", "name": "KBS-DCH" },
+        { "number": "289-Z", "name": "KBS-BKH" },
+        { "number": "289-M", "name": "KBS-BGR" },
+        { "number": "289-GA", "name": "KBS-MRS" },
+        { "number": "298", "name": "KBS-SDG" },
+        { "number": "289-CB", "name": "KBS-ABML" },
+        { "number": "289-N", "name": "KBS-KSH" },
+        { "number": "298-B", "name": "KBS-BHP" },
+        { "number": "298-MA", "name": "KBS-BMW" },
+        { "number": "298-MC", "name": "KBS-VJP" },
+        { "number": "298-MF", "name": "KBS-BCK" },
+        { "number": "298-MH", "name": "KBS-KHC" },
+        { "number": "298-Y", "name": "KBS-YLR" },
+        { "number": "298-Z", "name": "KBS-VJP" },
+        { "number": "299-E", "name": "KBS-GDH" },
+        { "number": "298-MG KBS-SNH", "name": "KBS-SNH" },
+        { "number": "V-298MN", "name": "KBS-CBP" },
+        { "number": "RBI-KBS DOWN", "name": "KBS-RBI" },
+        { "number": "258-C KBS-RGW", "name": "KBS-RGW" }
+      ]
+    },
+    "24": {
+      "coordinates": [77.573205, 12.977981],
+      "routes": [
+        { "number": "111-C", "name": "KBS-KVB" },
+        { "number": "114-B", "name": "KBS-MNP" },
+        { "number": "114-C", "name": "KBS-STP" },
+        { "number": "145", "name": "KBS-NLS" },
+        { "number": "146-F", "name": "KBS-KRMTTMC" },
+        { "number": "415-B", "name": "KBS-VNH" },
+        { "number": "146", "name": "KBS-VVKN" },
+        { "number": "415-H", "name": "KBS-AJB" },
+        { "number": "104", "name": "KBS-SDSN" }
+      ]
+    },
+    "29": {
+      "coordinates": [77.571649, 12.978197],
+      "routes": [
+        { "number": "333-E", "name": "KBS-KDG" },
+        { "number": "333-C", "name": "KBS-BSN" },
+        { "number": "335-E", "name": "KBS-KDG" },
+        { "number": "KBS-1I", "name": "KBS-KDG" },
+        { "number": "KBS-1K", "name": "KBS-KDG" },
+        { "number": "333-H", "name": "KBS-MNK" },
+        { "number": "333-F", "name": "KBS-DDNK" },
+        { "number": "333-K", "name": "KBS-DAN" },
+        { "number": "333-N", "name": "KBS-STRP" },
+        { "number": "316-B", "name": "KBS-BDG" },
+        { "number": "328-F", "name": "KBS-VLP" },
+        { "number": "329-H", "name": "KBS-BLK" },
+        { "number": "332-A", "name": "KBS-BLG" },
+        { "number": "333-G", "name": "KBS-NLH" },
+        { "number": "333-F KBS-MRHB-DDNK", "name": "KBS-DDNK" }
+      ]
+    },
+    "3A": {
+      "coordinates": [77.572273, 12.978054],
+      "routes": [
+        { "number": "240-MB", "name": "KBS-MGD" },
+        { "number": "240-H", "name": "KBS-LGDNH" },
+        { "number": "240-R", "name": "KBS-KCH" },
+        { "number": "241-B", "name": "KBS-KCP" },
+        { "number": "241-CB", "name": "KBS-YKH" },
+        { "number": "241-CN", "name": "KBS-ABVN" },
+        { "number": "241-D", "name": "KBS-BRN2" },
+        { "number": "241-E", "name": "KBS-LKMB" },
+        { "number": "241-G KBS-SGH", "name": "KBS-SGH" },
+        { "number": "241-H", "name": "KBS-NHN" },
+        { "number": "241-D KBS-BDG", "name": "KBS-BDG" },
+        { "number": "241-S KBS-UST", "name": "KBS-UST" },
+        { "number": "241-C KBS-GGP", "name": "KBS-GGP" },
+        { "number": "240 KBS-MCH", "name": "KBS-MCH" }
+      ]
+    },
+    "4A": {
+      "coordinates": [77.571969, 12.977848],
+      "routes": [
+        { "number": "245-K", "name": "KBS-AVH" },
+        { "number": "245-Q", "name": "KBS-BTH" },
+        { "number": "245-GA", "name": "KBS-KDBG" },
+        { "number": "245-HA", "name": "KBS-NMG" },
+        { "number": "245-J", "name": "KBS-KTH" },
+        { "number": "245-MA", "name": "KBS-KMS" },
+        { "number": "245-R", "name": "KBS-KTH" },
+        { "number": "246", "name": "KBS-ANP" }
+      ]
+    },
+    "4B": {
+      "coordinates": [77.571908, 12.977703],
+      "routes": [
+        { "number": "265", "name": "KBS-KBS" },
+        { "number": "G-7", "name": "KBS-JPTS" },
+        { "number": "V-G7", "name": "KBS-JPTS" },
+        { "number": "265-A", "name": "KBS-KBS" },
+        { "number": "265-B", "name": "KBS-TGRP" },
+        { "number": "265-E", "name": "KBS-MTH" }
+      ]
+    },
+    "6A": {
+      "coordinates": [77.572038, 12.978042],
+      "routes": [
+        { "number": "80-G", "name": "KBS-SMH" },
+        { "number": "80-A D31G-KBS DOWN", "name": "KBS-D31G" },
+        { "number": "80-E", "name": "KBS-2SKTN" },
+        { "number": "80-R", "name": "KBS-RPB" },
+        { "number": "80-K", "name": "KBS-SKMLO" },
+        { "number": "80-F", "name": "KBS-JBN" }
+      ]
+    },
+    "8A": {
+      "coordinates": [77.572462, 12.978144],
+      "routes": [
+        { "number": "45-D", "name": "KBS-AGSLA" },
+        { "number": "45-G", "name": "KBS-CKA" },
+        { "number": "45-E", "name": "KBS-CKA" },
+        { "number": "45-F", "name": "KBS-CKA" },
+        { "number": "45-D KBS-PPLO", "name": "KBS-PPLO" },
+        { "number": "45-DG", "name": "KBS-GTLO" },
+        { "number": "45-B", "name": "KBS-BVN" },
+        { "number": "45-EA", "name": "KBS-CKA" },
+        { "number": "49", "name": "KBS-BRDVN" }
+      ]
+    },
+    "8B": {
+      "coordinates": [77.572632, 12.978095],
+      "routes": [
+        { "number": "210-N", "name": "KBS-UTH" },
+        { "number": "210-KA", "name": "KBS-CKLS" },
+        { "number": "210-J", "name": "KBS-RML" },
+        { "number": "210-NA", "name": "KBS-PPLO" },
+        { "number": "210-NB", "name": "KBS-BSK5" },
+        { "number": "210-NG", "name": "KBS-UTH" },
+        { "number": "210-NH", "name": "KBS-UTH" },
+        { "number": "210-B KBS-KMT-CHG", "name": "KBS-CHG" }
+      ]
+    },
+    "12A": {
+      "coordinates": [77.572653, 12.978244],
+      "routes": [
+        { "number": "168-D", "name": "KBS-TVK" },
+        { "number": "168-D VSD", "name": "KBS-VSD-TVK" },
+        { "number": "364-A", "name": "KBS-MSCA" },
+        { "number": "364-B", "name": "KBS-DCH" },
+        { "number": "364-C", "name": "KBS-VBLO" },
+        { "number": "364-F", "name": "KBS-NPHA" },
+        { "number": "364-G KBS-D34G", "name": "KBS-D34G" }
+      ]
+    },
+    "11B": {
+      "coordinates": [77.57296, 12.978012],
+      "routes": [
+        { "number": "12", "name": "KBS-BSK" },
+        { "number": "KBS-5H", "name": "KBS-HRH" },
+        { "number": "18", "name": "KBS-JNN" },
+        { "number": "217-D", "name": "KBS - LMT" },
+        { "number": "215-R", "name": "KBS-HNR" },
+        { "number": "215-E", "name": "KBS-ELO" },
+        { "number": "364-G", "name": "KBS-KCH" },
+        { "number": "215-NC", "name": "KBS-AJP10" },
+        { "number": "215-N", "name": "KBS-ANP" },
+        { "number": "12-B", "name": "KBS-PNN" }
+      ]
+    },
+    "11A": {
+      "coordinates": [77.573017, 12.97791],
+      "routes": [
+        { "number": "211-J", "name": "KBS-VDH" },
+        { "number": "211-L", "name": "KBS-BCMCL" },
+        { "number": "212-D", "name": "KBS-AGR" },
+        { "number": "213-N", "name": "KBS-NTG" },
+        { "number": "211 KBS-VLS", "name": "KBS-VLS" }
+      ]
+    },
+    "15A": {
+      "coordinates": [77.572201, 12.978273],
+      "routes": [
+        { "number": "KBS-3A", "name": "KBS-ATB" },
+        { "number": "KBS-3C", "name": "KBS-CPR" },
+        { "number": "356-M", "name": "KBS-ANK" },
+        { "number": "KBS-3E", "name": "KBS-ELCW" },
+        { "number": "KBS-3F", "name": "KBS-ATB" },
+        { "number": "360-K", "name": "KBS-ATB" },
+        { "number": "360-J", "name": "KBS-HNDL" },
+        { "number": "360-S", "name": "KBS-SMDR" },
+        { "number": "355-C KBS-D27G", "name": "KBS-D27" },
+        { "number": "355-A", "name": "KBS-SRP" },
+        { "number": "352-A", "name": "KBS-HNG" },
+        { "number": "351-A", "name": "KBS-NRG" },
+        { "number": "353-C", "name": "KBS-JGNBS" },
+        { "number": "360-Q KBS-DSP", "name": "KBS-DSP" },
+        { "number": "356-M KBS-D32", "name": "KBS-D32" }
+      ]
+    },
+    "17A": {
+      "coordinates": [77.571858, 12.978085],
+      "routes": [
+        { "number": "V-365J", "name": "KBS-JAPC" },
+        { "number": "V-365", "name": "KBS-BNP" },
+        { "number": "C-365", "name": "KBS-BNP" }
+      ]
+    },
+    "18A": {
+      "coordinates": [77.571697, 12.977834],
+      "routes": [
+        { "number": "314-D", "name": "KBS-MNBS" },
+        { "number": "138", "name": "KBS-JBN" },
+        { "number": "314-X", "name": "KBS-ABH" },
+        { "number": "314-B", "name": "KBS-CVRN" },
+        { "number": "314-T", "name": "KBS-RMSN" },
+        { "number": "314-H", "name": "KBS-MLPNBS" }
+      ]
+    },
+    "23D": {
+      "coordinates": [77.573328, 12.977845],
+      "routes": [
+        { "number": "288-D", "name": "KBS-KDG" },
+        { "number": "288-G", "name": "KBS-KDHCB" },
+        { "number": "288-H", "name": "KBS-TDL" },
+        { "number": "288-DA", "name": "KBS-SKB" },
+        { "number": "288 KBS-TDL", "name": "KBS-TDL" }
+      ]
+    },
+    "23C": {
+      "coordinates": [77.573269, 12.977978],
+      "routes": [
+        { "number": "284", "name": "KBS-YHKOT" },
+        { "number": "280-K", "name": "KBS-MTH" },
+        { "number": "280-L", "name": "KBS-YPH" },
+        { "number": "281-F KBS-MYH-HNS", "name": "KBS-HNR" },
+        { "number": "281-G", "name": "KBS-BKHP" },
+        { "number": "282-D KBS-VVC", "name": "KBS-VVC" },
+        { "number": "282-F", "name": "KBS-MRNH" },
+        { "number": "282-G", "name": "KBS-KDGLT" },
+        { "number": "284 KBS-KVRY", "name": "KBS-KVRY" },
+        { "number": "284-C KBS-JLOW", "name": "KBS-JLOW" },
+        { "number": "280 KBS-YHK-CHLS", "name": "KBS-CHLS" },
+        { "number": "281-AP KBS-KIA", "name": "KBS-KIA" },
+        { "number": "280-A AGLO-KBS DOWN", "name": "KBS-AGLO" }
+      ]
+    },
+    "23B": {
+      "coordinates": [77.573218, 12.978114],
+      "routes": [
+        { "number": "402-B", "name": "KBS-YSTF" },
+        { "number": "286-G", "name": "KBS-JKR" },
+        { "number": "286-AA", "name": "KBS-JKLOA" },
+        { "number": "279-E", "name": "KBS-HBL279-E" },
+        { "number": "402-C", "name": "KBS-ATR" },
+        { "number": "299", "name": "KBS-TBH" },
+        { "number": "286-F", "name": "KBS-KNP" },
+        { "number": "279-E KBS-VSD-HBL", "name": "KBS-HBL" },
+        { "number": "369-D", "name": "KBS-SKLO" },
+        { "number": "287-G", "name": "KBS-CBL" },
+        { "number": "279-E  KBS-D14G", "name": "KBS-D14G" }
+      ]
+    },
+    "23A": {
+      "coordinates": [77.573102, 12.978253],
+      "routes": [
+        { "number": "285-M KBS-BMSIT", "name": "KBS-BMSIT" },
+        { "number": "V-285M", "name": "KBS-DBP" },
+        { "number": "285-M", "name": "KBS-DBP" },
+        { "number": "284-D", "name": "KBS-YST" },
+        { "number": "285 KBS-YST-PTH", "name": "KBS-PTH" },
+        { "number": "285 KBS-VPSH", "name": "KBS-VPSH" },
+        { "number": "284-KA", "name": "KBS-JSNL" },
+        { "number": "285-AA", "name": "KBS-RJK" },
+        { "number": "285-MF", "name": "KBS-KDGH" },
+        { "number": "284-C", "name": "KBS-JCLO" },
+        { "number": "285-A KBS-NGDH", "name": "KBS-NGDH" },
+        { "number": "285-H KBS-KLRH", "name": "KBS-KLRH" },
+        { "number": "285 KBS-SRKMS", "name": "KBS-SRKMS" }
+      ]
+    },
+    "20B": {
+      "coordinates": [77.572098, 12.978533],
+      "routes": [
+        { "number": "258-TC", "name": "KBS-NGH" },
+        { "number": "258-VA", "name": "KBS-HMP" },
+        { "number": "258-VB", "name": "KBS-CKMH" },
+        { "number": "258-VF", "name": "KBS-YNGR" },
+        { "number": "258-V KBS-GRH", "name": "KBS-GRH" },
+        { "number": "258-VG", "name": "KBS-UDK" },
+        { "number": "258-VD", "name": "KBS-KKH" }
+      ]
+    },
+    "20A": {
+      "coordinates": [77.571942, 12.978477],
+      "routes": [
+        { "number": "258-F", "name": "KBS-SVNP" },
+        { "number": "258-QA", "name": "KBS-MTK" },
+        { "number": "258-TA", "name": "KBS-KNM" },
+        { "number": "258-SD KBS-BNH", "name": "KBS-BNH" },
+        { "number": "258-SB", "name": "KBS-THP" }
+      ]
+    },
+    "19D": {
+      "coordinates": [77.571685, 12.978305],
+      "routes": [
+        { "number": "290-EY", "name": "KBS-YHK" },
+        { "number": "291-H", "name": "KBS-RKHN" },
+        { "number": "290-J", "name": "KBS-MSP" },
+        { "number": "290-B", "name": "KBS-TNS" },
+        { "number": "290-M", "name": "KBS-TLAN" }
+      ]
+    },
+    "19C": {
+      "coordinates": [77.571614, 12.978235],
+      "routes": [
+        { "number": "300-H", "name": "KBS-KRPGH" },
+        { "number": "300-C", "name": "KBS-KRPGH" },
+        { "number": "300-MV", "name": "KBS-SMVRS" },
+        { "number": "301-F", "name": "KBS-KTR" },
+        { "number": "302-A", "name": "KBS-BBSP" },
+        { "number": "302-B", "name": "KBS-KLN" },
+        { "number": "302-F", "name": "KBS-BBP" },
+        { "number": "300-B", "name": "KBS-BSW" }
+      ]
+    },
+    "19B": {
+      "coordinates": [77.57155, 12.978147],
+      "routes": [
+        { "number": "129", "name": "KBS-SBS" },
+        { "number": "122", "name": "KBS-OBH" },
+        { "number": "126", "name": "KBS-JVH" },
+        { "number": "V-129", "name": "KBS-SBS" },
+        { "number": "296", "name": "KBS-5BHBRL" },
+        { "number": "296-B", "name": "KBS-HBRL5B" }
+      ]
+    },
+    "29A": {
+      "coordinates": [77.57161, 12.978121],
+      "routes": [
+        { "number": "305-D", "name": "KBS-CNS" },
+        { "number": "KBS-12HK", "name": "KBS-HSK" },
+        { "number": "KBS-13K", "name": "KBS-KDG" },
+        { "number": "V-317A", "name": "KBS-HSKT" },
+        { "number": "304-Z", "name": "KBS-CKTP" },
+        { "number": "304-H", "name": "KBS-AHL" },
+        { "number": "304-X", "name": "KBS-AHL" },
+        { "number": "304-J", "name": "KBS-KAH" },
+        { "number": "304-B", "name": "KBS-KLR" },
+        { "number": "306-D", "name": "KBS-DVG" },
+        { "number": "323-F", "name": "KBS-NRG" },
+        { "number": "317-A KBS-VSD-HSK", "name": "KBS-VSD-HSK" },
+        { "number": "308 KMS-KBS DOWN", "name": "KBS-KMS" },
+        { "number": "304-R", "name": "KBS-BNBG" },
+        { "number": "305-L", "name": "KBS-VGT" },
+        { "number": "305-M", "name": "KBS-TBH" },
+        { "number": "305-Q", "name": "KBS-PGH" },
+        { "number": "305-V", "name": "KBS-DVPC" },
+        { "number": "306-E KBS-NYK", "name": "KBS-NYK" },
+        { "number": "306-F KBS-BRH", "name": "KBS-BRH" },
+        { "number": "306-L KBS-MSD", "name": "KBS-MSD" },
+        { "number": "315-K", "name": "KBS-KRP" },
+        { "number": "315-J", "name": "KBS-RMP" },
+        { "number": "315-MF", "name": "KBS-KRPGH" },
+        { "number": "316-F", "name": "KBS-CMS" },
+        { "number": "316-G", "name": "KBS-MDR" },
+        { "number": "316-M", "name": "KBS-SGH" },
+        { "number": "317-P", "name": "KBS-KNM" },
+        { "number": "317-V", "name": "KBS-NDV" },
+        { "number": "318 KBS-JTP", "name": "KBS-JYP" },
+        { "number": "321-G", "name": "KBS-MTK" },
+        { "number": "322-A", "name": "KBS-TNR" },
+        { "number": "323-AB", "name": "KBS-JGH" },
+        { "number": "323-AK", "name": "KBS-GHP" },
+        { "number": "325-A", "name": "KBS-HRH" },
+        { "number": "327-A", "name": "KBS-DMS" },
+        { "number": "381-E", "name": "KBS-KBP" },
+        { "number": "382-C KBS-DNH", "name": "KBS-DNH" },
+        { "number": "383-A", "name": "KBS-PAH" }
+      ]
+    },
+    "19A": {
+      "coordinates": [77.571491, 12.978043],
+      "routes": [
+        { "number": "226-N", "name": "KBS-BDD" },
+        { "number": "226-NA", "name": "KBS-KMP" },
+        { "number": "226-SB", "name": "KBS-BRM" },
+        { "number": "227-BA", "name": "KBS-TVK" },
+        { "number": "227-HA", "name": "KBS-KRBP" },
+        { "number": "227-P KBS-HNG", "name": "KBS-HNGR" },
+        { "number": "228-H", "name": "KBS-TPR" },
+        { "number": "228-J", "name": "KBS-SRVP" },
+        { "number": "229-B KBS-DVG", "name": "KBS-DVGR" },
+        { "number": "231-M", "name": "KBS-BDD" },
+        { "number": "234-E", "name": "KBS-UST" },
+        { "number": "234-EC", "name": "KBS-UST" },
+        { "number": "234-C", "name": "KBS-MGH" },
+        { "number": "226-V KBS-HGH", "name": "KBS-HGH" },
+        { "number": "227-RA", "name": "KBS-SSGM" },
+        { "number": "V-226KBS", "name": "KBS-WAP" },
+        { "number": "381", "name": "KBS-TMS" },
+        { "number": "383-D", "name": "KBS-HSH" },
+        { "number": "230-B", "name": "KBS-BTPL" },
+        { "number": "234-F KBS-AGSLO", "name": "KBS-AGSLO" }
+      ]
+    }
+  }
+}

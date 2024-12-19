@@ -1,10 +1,24 @@
-import {useEffect, useState} from 'react';
+import Fuse from 'fuse.js';
 import PropTypes from 'prop-types';
-import {STOPS} from '../utils/constants.js';
-import {getCurrentLocation, getDistance} from '../utils';
-import navigationArrow from '../assets/images/navigation-arrow-duotone.svg';
-import magnifyingGlass from '../assets/images/magnifying-glass.svg';
+import { useEffect, useState } from 'react';
 import copy from '../assets/images/copy-simple.svg';
+import magnifyingGlass from '../assets/images/magnifying-glass.svg';
+import navigationArrow from '../assets/images/navigation-arrow-duotone.svg';
+import { getCurrentLocation, getDistance } from '../utils';
+import { STOPS } from '../utils/constants.js';
+import fuseIndex from '../utils/fuse-index.json';
+
+import ALL_STOPS from '../utils/stops.json';
+
+const stopNamesIndex = Fuse.parseIndex(fuseIndex)
+
+const fuse = new Fuse(ALL_STOPS, {
+    keys: ['stop_name'],
+    includeScore: true,
+    threshold: 0.5,
+    index: stopNamesIndex
+});
+
 function SearchBar({setSearchResults}) {
     const locationThreshold = 0.2; // 200 meters
     const [searchValue, setSearchValue] = useState('');
@@ -16,10 +30,15 @@ function SearchBar({setSearchResults}) {
         const newSearchTerm = searchTerm ? searchTerm : '';
         setSearchValue(newSearchTerm);
         const searchFilter = newSearchTerm.length > 2 ? newSearchTerm : '';
-        setSearchResults(searchFilter.replaceAll(' ', '') === '' ? [] :
-            Object.keys(STOPS).filter((item) =>
-            item.toLowerCase().includes(searchFilter.toLowerCase())
-        ));
+        setSearchResults(
+            // searchFilter.replaceAll(' ', '') === '' ? [] :
+            // Object.keys(STOPS).filter((item) =>
+            // item.toLowerCase().includes(searchFilter.toLowerCase())
+
+
+            //Fuzzy Search with Fuse.js
+            fuse.search(searchFilter).slice(0, 10).map((result) => result.item.stop_name)
+        );
     };
     const handlePlatformsLocations = (platforms, coords) => {
         const actualThreshold = locationThreshold + (coords.accuracy/1000);

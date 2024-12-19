@@ -1,11 +1,11 @@
-const axios = require('axios');
-const fs = require('fs');
+import { get } from 'axios';
+import { writeFileSync } from 'fs';
 
 (async () => {
     const majesticGistURL = "https://gist.githubusercontent.com/croyla/6f0e128de90c49d016e6b15ebbf6d3c0" +
         "/raw/platforms-routes-majestic.geojson";
     const majesticGeoJSON =
-        (await axios.get(majesticGistURL)).data.features;
+        (await get(majesticGistURL)).data.features;
     const platforms = {};
     for (const i of majesticGeoJSON) {
         const location = i.geometry.coordinates;
@@ -20,7 +20,7 @@ const fs = require('fs');
             platforms[b.From][platform].routes.push({number: b.Name, name: b.UniqueName});
         }
     }
-    fs.writeFileSync("src/utils/platforms.json", JSON.stringify(platforms), (error) => {
+    writeFileSync("src/utils/platforms.json", JSON.stringify(platforms), (error) => {
         // throwing the error
         // in case of a writing problem
         if (error) {
