@@ -8,7 +8,8 @@
     <meta
             http-equiv="Content-Security-Policy"
             content="
-        default-src %VITE_BMTC_API_ENDPOINT% %VITE_CORS_ANYWHERE% 'self';
+        default-src 'self';
+        connect-src %VITE_BMTC_API_CSP%;
         img-src * 'self' data: blob:;
         style-src *.mapbox.com fonts.googleapis.com 'unsafe-inline' 'self';
         font-src fonts.gstatic.com;
