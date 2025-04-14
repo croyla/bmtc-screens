@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import ResultList from './result-list.jsx';
 // import ResultPlatform from './result-platform.jsx';
-import {BMTC_API_ENDPOINT, CORS_ANYWHERE} from '../utils/constants.js';
+import {BMTC_API_ENDPOINT} from '../utils/constants.js';
 import stopIcon from '../assets/images/signpost-fill.svg';
 import openLinkIcon from '../assets/images/arrow-square-out-thin.svg';
 
@@ -26,18 +26,14 @@ const ResultStop = ({ name, stop }) => {
                     setLoading(true);
                 }
                 try {
-                    console.log(CORS_ANYWHERE);
-                    console.log(BMTC_API_ENDPOINT);
-                    const response = await fetch(`${CORS_ANYWHERE}${BMTC_API_ENDPOINT}/GetMobileTripsData/`, {
+                    const response = await fetch(`${BMTC_API_ENDPOINT}/GetMobileTripsData/`, {
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/json',
                         },
                         body: JSON.stringify({ 'stationid': stop.stop_id, 'triptype': 1 }),
                     });
-                    console.log(response);
                     const data = (await response.json())['data'];
-                    console.log(data);
                     if(data && stop.platforms) {
                         // Handle platform data, add platform tags
                         for (let i = 0; i < busDataList.length; i++) {

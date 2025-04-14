@@ -36,7 +36,6 @@ function SearchBar({setSearchResults}) {
             // Fuzzy Search with Fuse.js
 
             fuse.search(searchFilter).slice(0, 20).map((result) => {
-                console.log(result);
                 return result.item.stop_name}).sort((a,b)=>{
                     
                     if(a.toLocaleLowerCase().startsWith(searchFilter.toLocaleLowerCase()) && !b.toLocaleLowerCase().startsWith(searchFilter.toLocaleLowerCase())) {
@@ -59,7 +58,6 @@ function SearchBar({setSearchResults}) {
             // Fuzzy Search with Fuse.js
 
             fuse.search(searchFilter).slice(0, 20).map((result) => {
-                console.log(result);
                 return result.item.stop_name}).sort((a,b)=>{
                     
                     if(a.toLocaleLowerCase().startsWith(searchFilter.toLocaleLowerCase()) && !b.toLocaleLowerCase().startsWith(searchFilter.toLocaleLowerCase())) {
@@ -96,7 +94,6 @@ function SearchBar({setSearchResults}) {
             return false;
         }
         const distance = getDistance(coords.latitude, coords.longitude, stopData.stop_lat, stopData.stop_lon);
-        // console.log(distance);
         return actualThreshold >= distance;
 
     };

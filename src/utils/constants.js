@@ -3,7 +3,6 @@ import ALL_STOPS from './stops.json';
 
 
 export const BMTC_API_ENDPOINT = import.meta.env.VITE_BMTC_API_ENDPOINT;
-export const CORS_ANYWHERE = import.meta.env.VITE_CORS_ANYWHERE;
 
 export const STOPS = ALL_STOPS.reduce((result, stop) => {
     if (!result[stop.stop_name]) {
@@ -25,7 +24,6 @@ export const STOPS = ALL_STOPS.reduce((result, stop) => {
     }
     //TODO: stopData can be overridden if two stops have the same name
     result[stop.stop_name].push(stopData);
-    // console.log(result);
     return result;
 
 }, {});
@@ -33,4 +31,3 @@ export const STOPS = ALL_STOPS.reduce((result, stop) => {
 export const ALL_STOPS_LIST = Object.keys(STOPS).map(stop => {
     return { "stop_name": stop }});
 
-// console.log(ALL_STOPS_LIST)

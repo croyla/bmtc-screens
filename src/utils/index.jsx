@@ -19,27 +19,6 @@ export const getCurrentLocation = async (setCurrentPosition) => {
         console.error('Permission denied');
         return null;
     }
-    // navigator.permissions.query({ name: 'geolocation' }).then((result) => {
-    //     if (result.state === 'granted' || result.state === 'prompt') {
-    //         if (navigator.geolocation) {
-    //             navigator.geolocation.getCurrentPosition(
-    //                 (position) => {
-    //                     return position;
-    //                 },
-    //                 (error) => {
-    //                     console.error('Error getting location', error);
-    //                     return [];
-    //                 }
-    //             );
-    //         } else {
-    //             console.error('Geolocation is not supported by this browser.');
-    //             return null;
-    //         }
-    //     } else {
-    //         console.error('Geolocation permission denied.');
-    //         return null;
-    //     }
-    // });
 }
 
 export const getDistance = (lat1, lng1, lat2, lng2) => {
